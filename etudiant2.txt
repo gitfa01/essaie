@@ -1,0 +1,3 @@
+2 Sy Mbaye SM123 Etu1 14 15 1 3
+3 Sane Jules JS456 Etu2 15 20 1 2
+4 Diagne Marie MD789 Etu3 10 5 1 7
